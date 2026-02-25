@@ -114,10 +114,10 @@ export default function Hero() {
               {/* Image */}
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-white dark:border-[#1a1a1e] shadow-2xl">
                 <img
-                  src="/profile.jpg"
-                  alt="Tarun Mothukuru"
-                  className="w-full h-full object-cover"
-                />
+                 src="/Tarun-Professional-Portfolio/profile.jpg"
+                 alt="Tarun Mothukuru"
+                 className="w-full h-full object-cover"
+              />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#c8873a]/20 to-transparent" />
               </div>
 
